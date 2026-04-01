@@ -1,2 +1,8 @@
 # ecommerce-api
-Hello its is first project
+
+Python 3.12 reuired
+
+## To run project 
+```base
+python manage.py runserver
+```
