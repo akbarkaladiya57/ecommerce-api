@@ -6,3 +6,4 @@ Python 3.12 reuired
 ```base
 python manage.py runserver
 ```
+
