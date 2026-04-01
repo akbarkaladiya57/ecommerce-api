@@ -7,3 +7,14 @@ Python 3.12 reuired
 python manage.py runserver
 ```
 
+
+
+
+
+
+
+
+
+
+
+
